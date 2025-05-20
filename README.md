@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Joao Victor Alves de Souza, tenho 19 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PROZ - Unidade Venda Nova. Sou uma apaixonado por tecnologia desde crianca e sempre busco aprender mais sobre essa área tao vasta.
+Hello, world! Me chamo Joao Victor Alves de Souza, tenho 19 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PROZ - Unidade Venda Nova. Sou  apaixonado por tecnologia desde crianca e sempre busco aprender mais sobre essa área tão vasta.
 
 <p align="left">
     <a href="https://github.com/JoaovAlves77?tab=repositories&sort=stargazers">
